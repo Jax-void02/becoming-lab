@@ -1,5 +1,14 @@
 # 试着成为 · 人生方向实验室
 
+<p align="center">
+  <img src="assets/readme/becoming-lab-hero.jpg" alt="混乱的人生可能性穿过三层证据筛选，成为少数可验证的方向路径" width="100%">
+</p>
+
+<p align="center">
+  <strong>不是替你找到天命，而是把迷茫变成可以验证的方向。</strong><br>
+  <sub>混乱的可能性 → 三类证据 → 2–3 个方向假设 → 7 天现实实验</sub>
+</p>
+
 ### 基于 University of Rochester 人类动机研究、Stanford 兴趣发展实验、University of Illinois 39,602 人职业匹配 Meta-analysis、London Business School 职业身份研究，以及 Université de Sherbrooke 个体职业咨询 Meta-analysis 设计
 
 | Stanford 兴趣发展实验 | Illinois 职业兴趣 Meta-analysis | APA 目标动机 Meta-analysis | Sherbrooke 个体职业咨询 Meta-analysis |
@@ -99,6 +108,14 @@ University of Illinois 团队汇总 **105 项研究、39,602 名参与者**后�
 Becoming Lab 把复杂的研究翻译成一个用户能够记住的框架：
 
 > **一个方向值得继续走近，需要三类不同证据：我愿意、它合身、我走得动。**
+
+<p align="center">
+  <img src="assets/readme/direction-three-evidences.jpg" alt="动机所有权、普通日常的合身程度与现实可行性三类证据汇聚成一张暂定方向假设卡" width="100%">
+</p>
+
+<p align="center">
+  <sub><strong>我愿意</strong> × <strong>它合身</strong> × <strong>我走得动</strong> → 一条值得继续走近的方向假设</sub>
+</p>
 
 ### 第一证：我愿意
 
@@ -230,6 +247,14 @@ Becoming Lab 默认一次只问一个主要问题。
 ## 为什么一定要有现实实验
 
 London Business School 的 Herminia Ibarra 长期研究职业身份转变。她提出的关键观点是：职业身份通常不是先在脑中彻底想清楚，再付诸行动；人们会通过尝试新的工作活动、进入新的关系网络和重新解释经历，逐渐形成“我可能成为谁”。[London Business School：Experimenting with New Roles](https://www.london.edu/think/experimenting-with-new-roles-in-search-of-identity)
+
+<p align="center">
+  <img src="assets/readme/seven-day-experiment.jpg" alt="一个暂定方向依次经过真实资料、人物访谈、微型任务、真实环境与证据复盘，并回流更新原来的判断" width="100%">
+</p>
+
+<p align="center">
+  <sub>别再追问“我究竟适不适合”——去获得一条能够增强、削弱或推翻判断的现实证据。</sub>
+</p>
 
 因此 Becoming Lab 不把聊天总结当成终点。
 
